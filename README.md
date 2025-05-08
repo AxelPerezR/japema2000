@@ -2,16 +2,11 @@
 
 Welcome to my GitHub-hosted website!
 
-🔗 **Live Site:** [https://github.com/AxelPerezR/japema2000]
+🔗 **Live Site:** [https://https://www.japema2000.com]
 
 ## 🧾 About
 
-This is a personal or project-based webpage hosted using GitHub Pages.
-
-You can use it to:
-- Showcase your portfolio
-- Host a project demo
-- Provide documentation or a blog
+This is a project-based webpage hosted using GitHub Pages.
 
 ## 🚀 Getting Started
 
