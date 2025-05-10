@@ -2,7 +2,7 @@
 
 Welcome to my GitHub-hosted website!
 
-🔗 **Live Site:** [https://https://www.japema2000.com]
+🔗 **Live Site:** [https://www.japema2000.com]
 
 ## 🧾 About
 
