@@ -32,12 +32,21 @@ body {
     margin: 1rem 0;
     font-size: 1rem;
   }
-  p2 {
+  footer p {
     text-align: center;
     line-height: 1.6;
     margin: 1rem 0;
     font-size: 0.8rem;
   }
+  footer a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  footer a:hover {
+    text-decoration: underline;
+  }
+
   .logo {
     max-height: 80px;
     margin: 10px auto;
@@ -56,3 +65,54 @@ body {
     padding: 1rem;          /* adds some space around the content */
   }
   
+  form {
+  max-width: 500px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+input, textarea {
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+select {
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.hero {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 20px 20px;
+}
+.hero h1 {
+  font-size: 2.5rem;
+}
+.cta-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+}
+.cta-button:hover {
+  background-color: #555;
+}
